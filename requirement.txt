@@ -1,9 +1,11 @@
 streamlit
 pandas
-google-api-python-client
+google-api-python-client==2.153.0
 textblob
 isodate
 plotly
 matplotlib
 emoji
 numpy
+httplib2==0.22.0
+uritemplate==4.1.1
