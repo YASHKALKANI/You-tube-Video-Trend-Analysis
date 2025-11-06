@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-from googleapiclient import discovery
-build = discovery.build
+from googleapiclient.discovery import build
 from textblob import TextBlob
 import isodate
 import plotly.express as px
