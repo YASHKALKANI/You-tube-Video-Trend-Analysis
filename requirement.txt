@@ -1,10 +1,9 @@
 streamlit
 pandas
-google-api-core
+google-api-python-client
 google-auth
 google-auth-httplib2
 google-auth-oauthlib
-google-api-python-client==2.154.0
 textblob
 isodate
 plotly
