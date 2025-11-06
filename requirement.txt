@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-api-python-client
+textblob
+isodate
+plotly
+matplotlib
+emoji
+numpy
